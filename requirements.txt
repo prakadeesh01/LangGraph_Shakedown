@@ -1,0 +1,15 @@
+langchain 
+langchain-core 
+langchain-community 
+langchain-groq 
+langchain-google-genai 
+langchain-huggingface 
+langchain-text-splitters 
+langgraph 
+python-dotenv 
+chromadb 
+faiss-cpu 
+wikipedia 
+youtube_search 
+tavily-python 
+langchainhub
